@@ -3,8 +3,8 @@ import {PageObject_Skeleton} from './skeleton.po';
 import {browser, element, by, By, $, $$, ExpectedConditions} from 'aurelia-protractor-plugin/protractor';
 
 describe('aurelia skeleton app', function() {
-  let po_welcome: PageObject_Welcome;
-  let po_skeleton: PageObject_Skeleton;
+  let po_welcome:any= PageObject_Welcome;
+  let po_skeleton:any= PageObject_Skeleton;
 
   beforeEach( () => {
     po_skeleton = new PageObject_Skeleton();
