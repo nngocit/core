@@ -1,0 +1,41 @@
+<template>
+  <style>
+    ai-dialog-overlay.active {
+      background-color: black;
+      opacity: .5;
+    }
+
+  </style>
+  <ai-dialog>
+    <ai-dialog-header>
+    </ai-dialog-header>
+    <ai-dialog-body>
+      <h2>${getTieuDe}</h2>
+      <form submit.delegate="save()">
+        <div class="form-group">
+          <label>Tên</label>
+          <input attach-focus="true" type="text" class="form-control" value.bind="selectedItem.HoTen & validateOnChange">
+        </div>
+        <div class="form-group">
+          <label>Email</label>
+          <input type="text" class="form-control" value.bind="selectedItem.Email & validate">
+        </div>
+        <div class="form-group">
+          <label>Chức vụ</label>
+          <input type="text" class="form-control" value.bind="selectedItem.ChucVu & validate">
+        </div>
+        <div class="form-group">
+          <label>Role</label>
+       <select class="form-control" value.bind="selectedItem.RoleId ">
+                    <option value="1">Administator</option>
+                    <option value="2">Mod</option>
+                    <option value="3">User</option>
+                </select>
+        </div>
+
+        <button class="btn btn-primary" type="submit">Lưu</button>
+        <button class="btn btn-warning" click.trigger="dialogcontroller.cancel()">Hủy</button>
+      </form>
+    </ai-dialog-body>
+  </ai-dialog>
+</template>
