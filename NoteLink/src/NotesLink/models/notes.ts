@@ -1,11 +1,12 @@
 export class notes {
   
     Name:string;
-    Details:string;
+    Detail:string;
   
-    constructor(Notes: notes) {
+    constructor(Notes: any={}) {
+      
+        this.Detail = Notes.Detail;
         this.Name = Notes.Name;
-        this.Details = Notes.Details;
     }
 }
 export class type {
