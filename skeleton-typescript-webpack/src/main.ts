@@ -46,11 +46,7 @@ export async function configure(aurelia: Aurelia) {
 var firebase = require("firebase/app");
 require("firebase/database");
 var config = {
-  //   apiKey: "AIzaSyC_fEKlapEbfm3yBtnnzttuqF5IOykQURQ",
-  // authDomain: "admincp-skeleton-db.firebaseapp.com",
-  // databaseURL: "https://admincp-skeleton-db.firebaseio.com",
-  // storageBucket: "admincp-skeleton-db.appspot.com",
-  // messagingSenderId: "593494488415"
+ 
    apiKey: "AIzaSyDd0DThtm4RpjGeSk51-h9Gw5lS8KgQ6EM",
     authDomain: "vuejs-4456b.firebaseapp.com",
     databaseURL: "https://vuejs-4456b.firebaseio.com",

@@ -1,0 +1,489 @@
+[
+  {
+    "name": "Cà phê đen",
+    "price": 12000,
+    "image": "hinhanh/capheden.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cà phê sữa",
+    "price": 15000,
+    "image": "hinhanh/caphesua.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cà phê Rum",
+    "price": 20000,
+    "image": "hinhanh/capherum.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cà phê Baileys",
+    "price": 22000,
+    "image": "hinhanh/caphebaileys.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cà phê sữa Baileys",
+    "price": 25000,
+    "image": "hinhanh/caphesuabaileys.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cà phê kem",
+    "price": 25000,
+    "image": "hinhanh/caphekem.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cà phê sữa kem",
+    "price": 28000,
+    "image": "hinhanh/caphesuakem.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cacao",
+    "price": 18000,
+    "image": "hinhanh/cacao.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Cacao sữa",
+    "price": 22000,
+    "image": "hinhanh/cacaosua.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Bạc xỉu",
+    "price": 18000,
+    "image": "hinhanh/bacxiu.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Sữa tươi",
+    "price": 18000,
+    "image": "hinhanh/suatuoi.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Sữa tươi đặc biệt",
+    "price": 25000,
+    "image": "hinhanh/suatuoidacbiet.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Chanh muối",
+    "price": 12000,
+    "image": "hinhanh/chanhmuoi.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Đá me",
+    "price": 18000,
+    "image": "hinhanh/dame.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Đá me sữa",
+    "price": 22000,
+    "image": "hinhanh/damesua.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Xí muội",
+    "price": 20000,
+    "image": "hinhanh/ximuoi.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Dừa tươi",
+    "price": 22000,
+    "image": "hinhanh/duatuoi.jpg",
+    "category": "coffee",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Lipton",
+    "price": 18000,
+    "image": "hinhanh/lipton.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Lipton sữa",
+    "price": 20000,
+    "image": "hinhanh/liptonsua.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Lipton sữa 3 tầng",
+    "price": 22000,
+    "image": "hinhanh/liptonsua3tang.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Lipton bạc hà",
+    "price": 22000,
+    "image": "hinhanh/liptonbacha.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Lipton cam tươi",
+    "price": 25000,
+    "image": "hinhanh/liptoncamtuoi.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Lipton dâu tươi",
+    "price": 25000,
+    "image": "hinhanh/liptondautuoi.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Trà gừng",
+    "price": 15000,
+    "image": "hinhanh/tragung.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "La hán quả",
+    "price": 15000,
+    "image": "hinhanh/lahanqua.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Trà dâu",
+    "price": 20000,
+    "image": "hinhanh/tradau.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Trà đào",
+    "price": 25000,
+    "image": "hinhanh/tradao.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Trà đào sữa",
+    "price": 28000,
+    "image": "hinhanh/tradaosua.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Trà táo",
+    "price": 20000,
+    "image": "hinhanh/tratao.jpg",
+    "category": "tea",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "ST chocolate bơ xây",
+    "price": 35000,
+    "image": "hinhanh/stchocolateboxay.jpg",
+    "category": "smoothies",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "ST chocolate dừa xây",
+    "price": 35000,
+    "image": "hinhanh/stchocolateduaxay.jpg",
+    "category": "smoothies",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "ST chocolate dâu xây",
+    "price": 35000,
+    "image": "hinhanh/stchocolatedauxay.jpg",
+    "category": "smoothies",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Trái cây dĩa nhỏ",
+    "price": 30000,
+    "image": "hinhanh/traicaydianho.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "dĩa"
+  },
+  {
+    "name": "Trái cây dĩa lớn",
+    "price": 45000,
+    "image": "hinhanh/traicaydialon.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "dĩa"
+  },
+  {
+    "name": "Mãng cầu dầm",
+    "price": 30000,
+    "image": "hinhanh/mangcaudam.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Sapoche dầm",
+    "price": 25000,
+    "image": "hinhanh/sapochedam.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Xoài dầm",
+    "price": 30000,
+    "image": "hinhanh/xoaidam.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Bơ dầm",
+    "price": 30000,
+    "image": "hinhanh/bodam.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Dâu dầm",
+    "price": 30000,
+    "image": "hinhanh/daudam.jpg",
+    "category": "fruit",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt hũ",
+    "price": 12000,
+    "image": "hinhanh/yaourthu.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt đá",
+    "price": 18000,
+    "image": "hinhanh/yaourtda.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt cam",
+    "price": 22000,
+    "image": "hinhanh/yaourtcam.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt dâu tươi",
+    "price": 25000,
+    "image": "hinhanh/yaourtdautuoi.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt táo",
+    "price": 22000,
+    "image": "hinhanh/yaourttao.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt nho",
+    "price": 25000,
+    "image": "hinhanh/yaourtnho.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt thơm",
+    "price": 22000,
+    "image": "hinhanh/yaourtthom.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt nha đam",
+    "price": 22000,
+    "image": "hinhanh/yaourtnhadam.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt xoài",
+    "price": 22000,
+    "image": "hinhanh/yaourtxoai.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Yaourt trái cây",
+    "price": 28000,
+    "image": "hinhanh/yaourttraicay.jpg",
+    "category": "yaourt",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Soda chanh",
+    "price": 20000,
+    "image": "hinhanh/sodachanh.jpg",
+    "category": "soda",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Soda cam",
+    "price": 25000,
+    "image": "hinhanh/sodacam.jpg",
+    "category": "soda",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Sâm dứa sữa",
+    "price": 25000,
+    "image": "hinhanh/samduasua.jpg",
+    "category": "soda",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Siro dâu sữa",
+    "price": 25000,
+    "image": "hinhanh/sirodausua.jpg",
+    "category": "soda",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  },
+  {
+    "name": "Siro bạc hà sữa",
+    "price": 25000,
+    "image": "hinhanh/sirobachasua.jpg",
+    "category": "soda",
+    "order": 1,
+    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "unit": "ly"
+  }
+  
+]
